@@ -1,103 +1,149 @@
-# Hi there! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" />
+# Hi there! 👋 I'm Yazan Abu Amr
+
 <p align="center">
-  <a href="https://x.com/apoorv__tyagi" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/x.svg" height="30" style="display:inline-block;" />
+  <a href="https://github.com/">
+    <img src="https://img.shields.io/badge/GitHub-Yazan%20Abu%20Amr-181717?style=for-the-badge&logo=github" />
   </a>
-  <a href="https://linkedin.com/in/apoorvtyagi" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" height="30" style="display:inline-block;" />
-  </a>
-  <a href="http://discord.com/users/apoorv#4040" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/discord.svg" height="30" style="display:inline-block;" />
-  </a>
-  <a href="https://www.buymeacoffee.com/apoorvtyagi">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/buymeacoffee.svg" height="30" style="display:inline-block;" />
+  <a href="https://www.linkedin.com/">
+    <img src="https://img.shields.io/badge/LinkedIn-Yazan%20Abu%20Amr-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
-![](https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966)
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" />
+</p>
 
-### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
-- 🏦 I'm a Senior Software Engineer working at PayPay 
-      <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-- 📝 I write technical articles at [apoorvtyagi.tech](https://apoorvtyagi.tech/)
-- 💻 I use daily: **.js**, **.java**, **.py**,  **.sql**
-- 📖 I am currently reading **India After Gandhi** by Ramachandra Guha
-- 👯 We can connect to play some games of Chess ♟
-- ⚡ Fun fact: Je connais un peu le français
-- 🧑‍💻 Tech I work on :
+## 👨‍💻 About Me
+
+* 🎓 Computer Systems Engineering Student at **Al-Azhar University of Gaza**
+* 💻 Interested in **Software Development** and **Problem Solving**
+* 🧠 Building my programming skills through structured learning and practical projects
+* ⚙️ Focused on writing **clean, efficient, and maintainable code**
+* 🚀 Currently developing my skills in **C, C++, Java, and Python**
+* 📚 Interested in **Algorithms, Data Structures, Object-Oriented Programming, and Software Engineering**
+* 🎯 Always looking for new challenges and opportunities to improve my technical skills
+* 🌱 Currently learning and building projects to strengthen my programming foundation
+
+---
+
+## 🛠️ Technologies & Tools
 
 <p align="center">
-      <a href="https://skillicons.dev">
-            <img src="https://skillicons.dev/icons?i=java,py,spring,nodejs,git,kubernetes,elasticsearch,azure,aws,docker,mysql,mongodb" />
-      </a>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,cpp,java,python,git,github,vscode,idea,mysql,linux" />
+  </a>
+</p>
+
+### 💻 Programming Languages
+
+* C
+* C++
+* Java
+* Python
+
+### 🧩 Core Skills
+
+* Problem Solving
+* Data Structures & Algorithms
+* Object-Oriented Programming
+* Clean Code
+* Debugging
+* Software Development
+* Database Fundamentals
+* Git & GitHub
+
+---
+
+## 📌 Featured Projects
+
+Here are some of the projects I am working on while developing my programming and software engineering skills.
+
+* 🔹 **C / C++ Projects** — Problem solving, algorithms, and data structures
+* 🔹 **Java Projects** — Object-oriented programming and GUI applications
+* 🔹 **Python Projects** — Programming practice and automation
+* 🔹 **Database Projects** — SQL and database application development
+* 🔹 **Web Projects** — Learning and practicing modern web development
+
+> 🚧 More projects are coming soon as I continue learning and building.
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YazanAbuAmr&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YazanAbuAmr&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YazanAbuAmr&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
-### <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='25' /> My Github Stats:
-![Apoorv's github streak](https://streak-stats.demolab.com?user=apoorvtyagi&theme=dark&mode=weekly)
 
-<!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-371%20hrs%2019%20mins-blue?style=flat)
-
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-92%20hrs%2038%20mins-blue?style=flat)
-
-**I'm a Night 🦉** 
+## 🎯 My Goals
 
 ```text
-🌞 Morning                205 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.39 % 
-🌆 Daytime                426 commits         ███████░░░░░░░░░░░░░░░░░░   27.82 % 
-🌃 Evening                768 commits         █████████████░░░░░░░░░░░░   50.16 % 
-🌙 Night                  132 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.62 % 
+✔ Improve my problem-solving skills
+✔ Master C and C++
+✔ Strengthen Data Structures & Algorithms
+✔ Build real-world software projects
+✔ Improve my Java and Python skills
+✔ Learn more about Software Engineering
+✔ Write clean and maintainable code
+✔ Contribute to open-source projects
 ```
-📅 **I'm Most Productive on Sunday** 
-
-```text
-Monday                   191 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.48 % 
-Tuesday                  190 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.41 % 
-Wednesday                95 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.21 % 
-Thursday                 101 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.60 % 
-Friday                   200 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.06 % 
-Saturday                 292 commits         █████░░░░░░░░░░░░░░░░░░░░   19.07 % 
-Sunday                   462 commits         ████████░░░░░░░░░░░░░░░░░   30.18 % 
-```
-
-
-🤖 **AI Coding This Week** 
-
-```text
-No AI Coding Activity Tracked This Week
-```
-
-
-<!--END_SECTION:waka-->
-
-⏳ **Year Progress:** { ██████████████████████▁▁▁▁▁▁▁▁ } 73.73% as on ⏰ 27-Sep-2026
 
 ---
 
-### <img src = "https://media1.giphy.com/media/JZ40cnfnN11KycrvMF/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = '23' /> My Latest Blog posts:
-<!-- BLOG-POST-LIST:START -->
-- [What is Jib? A Complete Guide to Java Containerization Without Dockerfiles](https://apoorvtyagi.tech/what-is-jib-a-complete-guide-to-java-containerization-without-dockerfiles)
-- [Kafka Consumer Container Restarts in Kubernetes: A Production Case Study](https://apoorvtyagi.tech/kafka-consumer-container-restarts-in-kubernetes-a-production-case-study)
-- [How we solved cache invalidation in Kubernetes with a headless service](https://apoorvtyagi.tech/how-we-solved-cache-invalidation-in-kubernetes-with-a-headless-service)
-- [Going Vernacular: Engineering Our Way to Process Multilingual Names](https://apoorvtyagi.tech/going-vernacular-engineering-our-way-to-process-multilingual-names)
-- [Building Resilient Systems: Retry Pattern in Microservices](https://apoorvtyagi.tech/building-resilient-systems-retry-pattern-in-microservices)
-- [Finding a Needle in Haystack: Fixing Mysterious Bad Gateway](https://apoorvtyagi.tech/finding-a-needle-in-haystack-fixing-mysterious-bad-gateway)
-<!-- BLOG-POST-LIST:END -->
+## 📚 Currently Learning
 
-▶ [... view more](https://apoorvtyagi.tech/)
-
----
-
-### <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20" /> A Famous Fact/Quote:
-<a href="https://github.com/marketplace/actions/quote-readme">
-<!--STARTS_HERE_QUOTE_README-->
-• <i>If there was a computer as powerful as the human brain, it would be able to do 38 thousand trillion operations per second and hold more than 3580 terabytes of memory.</i>
-<!--ENDS_HERE_QUOTE_README-->
-</a>
+```text
+C / C++
+   ↓
+Problem Solving
+   ↓
+Data Structures & Algorithms
+   ↓
+Object-Oriented Programming
+   ↓
+Java & Python
+   ↓
+Software Engineering
+   ↓
+Real-World Projects
+```
 
 ---
 
-### <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width ='29' /> Here's a Pinch of Humour:
-<img src="https://readme-jokes.vercel.app/api" alt="Error fetching humour, Refresh again to view the Card" width = '11000' />
+## 💡 My Programming Philosophy
 
+> **"Write code that is simple, clean, efficient, and easy to understand."**
+
+I believe that becoming a good software developer is not only about writing code, but also about understanding problems, designing solutions, and continuously improving.
+
+---
+
+## 🤝 Let's Connect
+
+<p align="center">
+  <a href="https://github.com/YazanAbuAmr">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  ⭐ Thanks for visiting my profile!
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
+</p>
