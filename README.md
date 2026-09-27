@@ -5,7 +5,7 @@
     <img src="https://img.shields.io/badge/GitHub-yazanamr-181717?style=for-the-badge&logo=github" />
   </a>
   <a href="https://www.linkedin.com/">
-    <img src="https://img.shields.io/badge/LinkedIn-yazan-abu-amr-a18217363-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-yazan-abu-amr-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
