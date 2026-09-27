@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/">
-    <img src="https://img.shields.io/badge/GitHub-Yazan%20Abu%20Amr-181717?style=for-the-badge&logo=github" />
+    <img src="https://img.shields.io/badge/GitHub-yazanamr-181717?style=for-the-badge&logo=github" />
   </a>
   <a href="https://www.linkedin.com/">
     <img src="https://img.shields.io/badge/LinkedIn-Yazan%20Abu%20Amr-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
