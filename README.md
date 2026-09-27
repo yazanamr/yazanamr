@@ -1,11 +1,11 @@
 # Hi there! 👋 I'm Yazan Abu Amr
 
 <p align="center">
-  <a href="https://github.com/">
+  <a href="https://github.com/yazanamr">
     <img src="https://img.shields.io/badge/GitHub-yazanamr-181717?style=for-the-badge&logo=github" />
   </a>
-  <a href="https://www.linkedin.com/">
-    <img src="https://img.shields.io/badge/LinkedIn-yazan-abu-amr-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://www.linkedin.com/in/yazan-abu-amr-a18217363/">
+    <img src="https://img.shields.io/badge/LinkedIn-Yazan_Abu_Amr-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
